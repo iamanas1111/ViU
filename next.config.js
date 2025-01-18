@@ -7,7 +7,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: '',
+        hostname: 's3-anas-bucket.s3.ap-southeast-2.amazonaws.com',
         port: '',
       },
     ],
